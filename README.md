@@ -6,3 +6,5 @@
 4. After creating all png static images, in the last step, it put them all together by OpenCV to create a movie (.avi) file. 
 
 Please look at the project-mv.avi file as the example which shows the movie of multiverse-mx.csv. 
+
+Please send me an email (XY@uvic.ca) if you have any questions. X is my first initial name and Y is my family name. 
